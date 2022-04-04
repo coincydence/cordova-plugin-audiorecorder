@@ -4,7 +4,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_alignParentBottom="true"
-                android:background="#A6000000">
+                android:background="#A6FFB71A">
 
     <ImageButton
         android:id="@+id/img_button_close_view"
